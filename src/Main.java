@@ -107,7 +107,6 @@ public class Main {
                 firstArray[i]++;
             }
         }
-
         System.out.println(Arrays.toString(firstArray));
     }
 }
